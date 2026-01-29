@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Công nghệ và Học sinh Thời đại Số</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            background-color: #f4f6f8;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(to right, #0066cc, #00aaff);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #0066cc;
+        }
+
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        video, audio {
+            width: 100%;
+            margin-top: 15px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #222;
+            color: white;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>CÔNG NGHỆ VÀ HỌC SINH THỜI ĐẠI SỐ</h1>
+    <p>Học tập – Kết nối – Sáng tạo trong thế giới số</p>
+</header>
+
+<section>
+    <h2>1. Giới thiệu về công nghệ trong thời đại số</h2>
+    <p>
+        Thời đại số là thời kỳ mà công nghệ thông tin, Internet và trí tuệ nhân tạo
+        phát triển mạnh mẽ. Công nghệ đã thay đổi cách con người học tập, làm việc
+        và giao tiếp hàng ngày.
+    </p>
+
+    <img src="https://images.unsplash.com/photo-1581092160562-40aa08e78837"
+         alt="Công nghệ hiện đại">
+</section>
+
+<section>
+    <h2>2. Học sinh trong thời đại số</h2>
+    <p>
+        Học sinh ngày nay được tiếp cận với máy tính, điện thoại thông minh,
+        học trực tuyến, trí tuệ nhân tạo và nhiều phần mềm hỗ trợ học tập.
+        Điều này giúp việc học trở nên linh hoạt, hiệu quả và sáng tạo hơn.
+    </p>
+
+    <img src="https://images.unsplash.com/photo-1600195077078-df87f9c9c5c7"
+         alt="Học sinh thời đại số">
+
+    <video controls>
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+        Trình duyệt của bạn không hỗ trợ video.
+    </video>
+</section>
+
+<section>
+    <h2>3. Lợi ích của thời đại số</h2>
+    <p>
+        ✔ Giúp học sinh học tập mọi lúc, mọi nơi<br>
+        ✔ Kết nối mọi người trên toàn thế giới<br>
+        ✔ Hỗ trợ nhiều ngành nghề phát triển như giáo dục, y tế, kinh doanh, công nghiệp<br>
+        ✔ Tiết kiệm thời gian, chi phí và nâng cao hiệu quả công việc
+    </p>
+
+    <audio controls>
+        <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+        Trình duyệt của bạn không hỗ trợ âm thanh.
+    </audio>
+</section>
+
+<section>
+    <h2>4. Công nghệ với các ngành nghề</h2>
+    <p>
+        Công nghệ số giúp các ngành nghề như giáo viên, kỹ sư, bác sĩ, lập trình viên,
+        nhà kinh doanh và nhiều lĩnh vực khác nâng cao năng suất làm việc,
+        tạo ra nhiều cơ hội nghề nghiệp mới cho tương lai.
+    </p>
+
+    <img src="https://images.unsplash.com/photo-1526378722445-4dfd3a8d5c8b"
+         alt="Công nghệ và nghề nghiệp">
+</section>
+
+<footer>
+    <p>© 2026 - Trang web giáo dục về Công nghệ & Thời đại số</p>
+</footer>
+
+</body>
+</html>
